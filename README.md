@@ -1,15 +1,3 @@
-# CODTECH-TASK2
-Name:Pradhiba S
-
-Company:CODTECH IT SOLUTIONS
-
-ID:CT04DH1273
-
-Domain:Cyber Security & Ethical Hacking
-
-Duration:JULY 2 TO AUGUST 2
-
-Task:02
 
 Python-Based Web Vulnerability Scanner
 
@@ -43,8 +31,6 @@ Working:
    - Reflected XSS scripts in HTML.
 4. Displays detected vulnerabilities in a structured format.
 
-Conclusion:
-The output is attached above.Kindly check it.
 
 
 
